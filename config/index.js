@@ -11,7 +11,7 @@ export const config = {
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: "1a4b5219a366da47d0325effd2a92362",
+  APP_SECRET: "edf8fdf769ac770831336f23c0b24bfd",
   
   //消息模板ID
   templateId: "caukf2YB3hO-Nq8ngR1FHUiSeKHcXh3OaObx8gFFjko",
