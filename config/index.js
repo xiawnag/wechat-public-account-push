@@ -14,7 +14,7 @@ export const config = {
   APP_SECRET: "1a4b5219a366da47d0325effd2a92362",
   
   //消息模板ID
-  templateId: "caukf2YB3hO-Nq8ngR1FHUiSeKHcXh3OaObx8gFFjko"
+  templateId: "caukf2YB3hO-Nq8ngR1FHUiSeKHcXh3OaObx8gFFjko",
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
   IS_SHOW_COLOR: true,
